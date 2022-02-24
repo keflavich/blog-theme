@@ -1,7 +1,5 @@
 {
-  "name": "theme",
+  "name": "mine",
   "description": "A modification of the basic theme for Pelican",
-  "version": "0.0.1",
-  "devDependencies": {
-  }
+  "version": "0.0.1"
 }
