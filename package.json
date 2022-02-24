@@ -1,5 +1,5 @@
 {
-  "name": "keflavich-pelican",
+  "name": "theme",
   "description": "A modification of the basic theme for Pelican",
   "version": "0.0.1",
   "devDependencies": {
